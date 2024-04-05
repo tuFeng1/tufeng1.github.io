@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: 
 nav: true
-nav_order: 6
+nav_order: 3
 ---
 ISE 3200: Linear Programming and Mixed-Integer Linear Programming
 Instructor: [Prof. Antonio J. Conejo](https://u.osu.edu/conejo.1)
