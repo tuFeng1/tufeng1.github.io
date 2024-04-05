@@ -2,7 +2,7 @@
 layout: page
 title: Hollistic Building Data Analytics
 description: Digitalization of old gauges
-img: 
+img: assets/img/3.jpg
 importance: 1
 category: work
 related_publications: false
