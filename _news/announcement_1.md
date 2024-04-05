@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+My leadership story is on the ISE Website! <a href="https://ise.osu.edu/news/2023/11/ohio-state-informs-earns-magna-cum-laude-award">2023 INFORMS Award</a>
