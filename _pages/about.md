@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Ph.D. student in <a href='https://ise.osu.edu/'>Industrial and Systems Engineering (ISE)</a>, <a href='https://www.osu.edu/'>The Ohio State University</a>.
 
 profile:
   align: right
