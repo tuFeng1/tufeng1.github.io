@@ -29,4 +29,4 @@ I am also the president of [INFORMS Student Chapter @ Ohio State](https://u.osu.
 and a delegate of Integrated Systems Engineering in [Council of Graduate Students](https://cgs.osu.edu/).
 
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=250&t=n&d=cluWZrLBt6BodqPoUBB74nH8HV1ygZVRVLUMhviqhIg&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+<p><script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=DehKby6Tc0uzeeZSRI6_HSdjSuhr2pV0KdBrlBp3ckE'></script></p>
