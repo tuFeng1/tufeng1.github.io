@@ -2,11 +2,13 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 nav_order: 6
 ---
+ISE 3200: Linear Programming and Mixed-Integer Linear Programming
+Instructor: [Prof. Antonio J. Conejo](https://u.osu.edu/conejo.1)
+Course Slides: [Here](https://u.osu.edu/conejo.1/courses/lp-milp/)
+In this course, we will show that linear programming (LP) problems are important for the industry, and explain how to formulate such problems, how to solve them, and how to interpret the results. We will do likewise with mixed-integer linear programming (MILP) problems.
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+After successfully completing this course, you will be capable of analyzing relevant industry problems by formulating them as LP or MILP problems, solving them, and interpreting the results obtained.
