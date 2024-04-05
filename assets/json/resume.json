@@ -49,8 +49,8 @@
       "institution": "The Ohio State University",
       "location": "Columbus, Ohio",
       "url": "https://www.osu.edu/",
-      "area": "Operations Research",
-      "studyType": "PhD",
+      "area": "",
+      "studyType": "Ph.D. in Operations Research",
       "startDate": "2021-08",
       "endDate": "Present",
       "courses": [""]
@@ -59,12 +59,22 @@
       "institution": "The Ohio State University",
       "location": "Columbus, Ohio",
       "url": "https://www.osu.edu/",
-      "area": "Operations Research",
+      "area": "",
       "studyType": "B.S. Industrial System Engineering",
       "startDate": "2019-08",
       "endDate": "2021-05",
       "courses": [""]
        #Honors Research Distinction (w/ thesis)
+    }
+      {
+      "institution": "Sichuan University",
+      "location": "Chengdu, Sichuan, China",
+      "url": "https://en.wikipedia.org/wiki/Sichuan_University",
+      "area": "",
+      "studyType": "B.Eng. Industrial Engineering",
+      "startDate": "2017-09",
+      "endDate": "2021-05",
+      "courses": [""]
     }
   ],
   "awards": [
