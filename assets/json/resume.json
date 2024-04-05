@@ -55,26 +55,6 @@
       "endDate": "Present",
       "courses": [""]
     }
-     {
-      "institution": "The Ohio State University",
-      "location": "Columbus, Ohio",
-      "url": "https://www.osu.edu/",
-      "area": "Industrial System Engineering",
-      "studyType": "B.S. Industrial System Engineering",
-      "startDate": "2019-08",
-      "endDate": "2021-05",
-      "courses": [""]
-    }
-      {
-      "institution": "Sichuan University",
-      "location": "Chengdu, Sichuan, China",
-      "url": "https://en.wikipedia.org/wiki/Sichuan_University",
-      "area": "Industrial Engineering",
-      "studyType": "B.Eng. Industrial Engineering",
-      "startDate": "2017-09",
-      "endDate": "2021-05",
-      "courses": [""]
-    }
   ],
   "awards": [
     {
