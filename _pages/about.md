@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-      <p>Baker Systems Engineering 210</p>
+      <p>Baker Systems 210</p>
       <p>1971 Neil Avenue</p>
       <p>Columbus, Ohio 43210</p>
 
