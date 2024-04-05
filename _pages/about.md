@@ -28,5 +28,5 @@ Co-advisor: Dr. Theodore Allen, Professor, Integrated Systems Engineering. [Secu
 I am also the president of [INFORMS Student Chapter @ Ohio State](https://u.osu.edu/informsosu/)
 and a delegate of Integrated Systems Engineering in [Council of Graduate Students](https://cgs.osu.edu/).
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=cluWZrLBt6BodqPoUBB74nH8HV1ygZVRVLUMhviqhIg&cl=ffffff&w=a"></script>
 
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=250&t=n&d=cluWZrLBt6BodqPoUBB74nH8HV1ygZVRVLUMhviqhIg&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
