@@ -46,15 +46,25 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "The Ohio State University",
+      "location": "Columbus, Ohio",
+      "url": "https://www.osu.edu/",
+      "area": "Operations Research",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2021-08",
+      "endDate": "Present",
+      "courses": [""]
+    }
+     {
+      "institution": "The Ohio State University",
+      "location": "Columbus, Ohio",
+      "url": "https://www.osu.edu/",
+      "area": "Operations Research",
+      "studyType": "B.S. Industrial System Engineering",
+      "startDate": "2019-08",
+      "endDate": "2021-05",
+      "courses": [""]
+       #Honors Research Distinction (w/ thesis)
     }
   ],
   "awards": [
