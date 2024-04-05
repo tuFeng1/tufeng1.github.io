@@ -25,7 +25,6 @@ Advisor: [Dr. Antonio Conejo](https://u.osu.edu/conejo.1/), Professor, Integrate
 
 Co-advisor: Dr. Theodore Allen, Professor, Integrated Systems Engineering. [Security & Efficiency Analytics Laboratory](https://blying.com/).
 
-Service: 
-President, [INFORMS Student Chapter @ Ohio State](https://u.osu.edu/informsosu/)
-Delegate of Integrated Systems Engineering, [Council of Graduate Students](https://cgs.osu.edu/).
+I am also the president of [INFORMS Student Chapter @ Ohio State](https://u.osu.edu/informsosu/)
+and a delegate of Integrated Systems Engineering in [Council of Graduate Students](https://cgs.osu.edu/).
 
