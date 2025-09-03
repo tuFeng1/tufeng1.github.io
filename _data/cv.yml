@@ -30,7 +30,13 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Incoming PhD Intern 
+        - title: PhD Intern 
+      institution: Applied Energy Services (AES), Dayton, OH, USA
+      year: 05/2025-08/2025
+      description:
+        - Supervisor - Dr. Jingye Zhao
+  
+    - title: PhD Intern 
       institution: Independent System Operator New England, Holyoke, MA, USA
       year: 05/2024-08/2024
       description:
@@ -51,11 +57,12 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Power System Operations and Energy Market
+    - title: Electric batteries in power systems
       items:
-        - Market strategies for energy storage
-        - Complementarity modeling in energy systems and electricity markets
+        - Market strategies for EV aggregators
+        - Optimal operations of EV aggregators in energy and frequency regulation markets
+        - Planning problems for batteries to enhance resilience
     - title: Other Optimization Topics
       items:
         - Sequential decision-making, resilience optimization
-        - Optimal Classification Tree
+        - Optimal classification tree
