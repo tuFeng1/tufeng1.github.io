@@ -23,7 +23,7 @@ I am a 3-rd year Ph.D. student in Integrated Systems Engineering (Operations Res
 
 Advisor: [Dr. Antonio Conejo](https://u.osu.edu/conejo.1/), Professor, Integrated System Engineering and Electrical and Computer Engineering.
 
-Co-advisor: Dr. Theodore Allen, Professor, Integrated Systems Engineering. [Security & Efficiency Analytics Laboratory](blying.com/).
+Co-advisor: Dr. Theodore Allen, Professor, Integrated Systems Engineering. [Security & Efficiency Analytics Laboratory](https://www.google.com/).
 
 I am also the president of [INFORMS Student Chapter @ Ohio State](https://u.osu.edu/informsosu/)
 and a delegate of Integrated Systems Engineering in [Council of Graduate Students](https://cgs.osu.edu/).
