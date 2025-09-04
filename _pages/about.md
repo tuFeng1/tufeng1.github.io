@@ -6,7 +6,7 @@ subtitle: Ph.D. student in <a href='https://ise.osu.edu/'>Industrial and Systems
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: assets/img/prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
       <p>Baker Systems 210</p>
